@@ -1,0 +1,2 @@
+# bankamatikBu projemde bir bankamatik simulasyonu hayal ettim. Kişi hesap no ve şifreyle giriş yapabiliyor. Eğer kayıtlı değilse kayıt ol buttonuna basıp bilgilerini doldurup kayıt olabiliyor. Ve sistem üzerinden bakiyesini görüp başka kullanıcılara para transferi yapabiliyor.
+In this project, I dreamed of a cash machine simulation. User can login with account number and password. If it is not registered, it can be registered by clicking the register button and filling in the information. And he can see his balance through the system and transfer money to other users.
